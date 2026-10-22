@@ -5,6 +5,8 @@ Open index.html in a modern browser, or visit http://127.0.0.1:4173 while the lo
 To restart the preview from this directory:
 python3 -m http.server 4173 --bind 127.0.0.1
 
+Start by selecting Group ITLT, Global ITLT or K-DD. Navigation, document uploads, session pickers, tasks and activity then stay scoped to that committee. Use Switch committee to choose another workspace. Each page load starts with committee selection.
+
 Included:
 - Three committee workspaces: Group ITLT, Global ITLT and K-DD.
 - Session creation and editing, dates, chairs, meeting locations and status.
